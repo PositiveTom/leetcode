@@ -1,0 +1,10 @@
+/home/galaxy/mycode/code/build/CMakeFiles/rebuild_cache.dir
+/home/galaxy/mycode/code/build/CMakeFiles/edit_cache.dir
+/home/galaxy/mycode/code/build/CMakeFiles/test_2.dir
+/home/galaxy/mycode/code/build/CMakeFiles/test_77.dir
+/home/galaxy/mycode/code/build/CMakeFiles/test_343.dir
+/home/galaxy/mycode/code/build/CMakeFiles/test_746.dir
+/home/galaxy/mycode/code/build/CMakeFiles/test_202.dir
+/home/galaxy/mycode/code/build/CMakeFiles/test_349.dir
+/home/galaxy/mycode/code/build/CMakeFiles/test_242.dir
+/home/galaxy/mycode/code/build/CMakeFiles/test_hash.dir
